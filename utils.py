@@ -4,4 +4,4 @@ def add(a: int, b: int) -> int:
 
 
 def calculate_average(numbers):
-    return sum(numbers) / len(numbers)
+    return sum(numbers) / len(numbers).
