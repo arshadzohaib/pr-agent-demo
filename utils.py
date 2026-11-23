@@ -9,3 +9,5 @@ def calculate_average(numbers):
 
 def get_first_item(items):
     return items[0]
+
+def divide(a, b): return a / b
